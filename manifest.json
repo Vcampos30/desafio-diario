@@ -1,0 +1,18 @@
+{
+  "name": "Desafio Diário",
+  "short_name": "Desafio Diário",
+  "description": "Desafio pessoal de flexões e abdominais com progressão e gamificação.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
